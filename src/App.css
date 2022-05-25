@@ -6,3 +6,11 @@
   margin-left: 40px;
   margin-right: 40px;
 }
+
+.footer{
+   position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
