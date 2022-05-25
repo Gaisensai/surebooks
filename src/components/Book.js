@@ -1,7 +1,7 @@
 import React from "react";
 import { bookAuthors } from "../utils";
 
-const Book = ({book,}) => {
+const Book = ({book}) => {
     return (
         <>
         <li>
